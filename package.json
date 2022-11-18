@@ -1,0 +1,11 @@
+{
+  "name": "todo_yarn",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "index.js",
+  "author": "Venkat <venkatramanbehera1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
+}
